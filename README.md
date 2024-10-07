@@ -43,11 +43,18 @@ Use only one main file: [instruction](https://bg3.wiki/wiki/Guide:Installing_Mod
 * ✅ Aura Of Conquest from [Oath of Conquest Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/477)
 * ✅ Aura of Alacrity from [Oath of Glory — Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/3413)
 
+## Troubleshooting
+
+I tested mod as much as I could and should be no problems, but if something is not working correctly, please use [Bugs](https://www.nexusmods.com/baldursgate3/mods/3180?tab=bugs) tab and create bug report ☠️:
+
+* ✳️ Describe bug.
+* ✳️ List steps to reproduce it. 
+
 ## FAQ
 
 ### Installation/Updating/Uninstallation?
 
-Anytime. This mod leaves nothing in the save.
+Anytime. This mod leaves nothing in the save.
 
 ## Permissions
 
