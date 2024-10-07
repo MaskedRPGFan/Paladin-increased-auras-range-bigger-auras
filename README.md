@@ -2,11 +2,11 @@
 
 
 <p align="center">
-<img src="https://bg3.wiki/w/images/thumb/0/0e/Aura_of_Protection.webp/300px-Aura_of_Protection.webp.png"  width="100" height="100"/>
-<img src="https://bg3.wiki/w/images/thumb/1/17/Aura_of_Hate_Icon.png/300px-Aura_of_Hate_Icon.png"  width="100" height="100"/>
-<img src="https://bg3.wiki/w/images/thumb/9/9e/Aura_of_Courage.webp/300px-Aura_of_Courage.webp.png"  width="100" height="100"/>
-<img src="https://bg3.wiki/w/images/thumb/0/0a/Aura_of_Warding.webp/300px-Aura_of_Warding.webp.png"  width="100" height="100"/>
-<img src="https://bg3.wiki/w/images/thumb/3/36/Aura_of_Devotion.webp/300px-Aura_of_Devotion.webp.png"  width="100" height="100"/>
+<img src="https://i.postimg.cc/3xqksPKy/Aura-of-Protection.png"  width="100" height="100"/>
+<img src="https://i.postimg.cc/Qx09bFwJ/Aura-of-Hate-Icon.png"  width="100" height="100"/>
+<img src="https://i.postimg.cc/HknJPpCD/Aura-of-Devotion.png"  width="100" height="100"/>
+<img src="https://i.postimg.cc/tgVsp2TB/Aura-of-Warding.png"  width="100" height="100"/>
+<img src="https://i.postimg.cc/4NJHV6L3/Aura-of-Courage.png"  width="100" height="100"/>
 </p>
 
 # Paladin — increased auras range — bigger auras
@@ -22,13 +22,12 @@ Add-ons from optional files section can be used together with main files to adju
 
 Current list of add-ons:
 
-*✳️ Paladin — increased auras range — Aura of Alacrity — B:
-
-* ➡️ Aura of Alacrity 3m.
+* ✳️ Paladin — increased auras range — Aura of Alacrity — B:
+  * ➡️ Aura of Alacrity 3m.
 
 ## Installation
 
-Use only one main file. [url=https://bg3.wiki/wiki/Guide:Installing_Mods]Instruction
+Use only one main file: [instruction](https://bg3.wiki/wiki/Guide:Installing_Mods).
 
 ## Compatibility
 
