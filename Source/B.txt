@@ -1,0 +1,11 @@
+new entry "AURA_OF_ALACRITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_ALACRITY"
+data "AuraRadius" "3"
+
+new entry "Shout_AuraOfAlacrity"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOfAlacrity"
+data "AreaRadius" "3"
