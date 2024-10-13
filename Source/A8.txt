@@ -154,10 +154,6 @@ using "Shout_AuraOf_Warding_2"
 data "AreaRadius" "12"
 
 
-
-
-
-
 new entry "AURA_OF_SENTINEL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -169,8 +165,6 @@ type "SpellData"
 data "SpellType" "Shout"
 using "Shout_AuraOfSentinel"
 data "AreaRadius" "6"
-
-
 
 
 new entry "AURA_OF_CONQUEST_AURA"
@@ -187,9 +181,6 @@ using "AURA_OF_CONQUEST_AURA_IMPROVED"
 data "AuraRadius" "12"
 
 
-
-
-
 new entry "AURA_OF_ALACRITY"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -200,4 +191,16 @@ new entry "Shout_AuraOfAlacrity"
 type "SpellData"
 data "SpellType" "Shout"
 using "Shout_AuraOfAlacrity"
+data "AreaRadius" "6"
+
+
+new entry "AURA_OF_ENMITY"
+type "StatusData"
+using "AURA_OF_ENMITY"
+data "AuraRadius" "6"
+
+
+new entry "Shout_LHB_AuraOfEnmity"
+type "SpellData"
+using "Shout_LHB_AuraOfEnmity"
 data "AreaRadius" "6"
