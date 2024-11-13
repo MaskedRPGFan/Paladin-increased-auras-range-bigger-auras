@@ -36,6 +36,7 @@ Use only one main file: [instruction](https://bg3.wiki/wiki/Guide:Installing_Mod
 * ✅ Aura Of Conquest from [Oath of Conquest Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/477)
 * ✅ Aura of Alacrity from [Oath of Glory — Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/3413)
 * ✅ Aura of Enmity from [Aura of Enmity — Vengeance Paladin](https://www.nexusmods.com/baldursgate3/mods/8460)
+* ✅ Aura of Zeal from [Oath of the Bleak Walkers Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/6598)
 
 ## Troubleshooting
 
